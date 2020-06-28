@@ -10,6 +10,7 @@
 		100773EE24A53EA20001D164 /* PRICECON.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 100773ED24A53EA20001D164 /* PRICECON.cpp */; };
 		1033474324A667EB00534EE2 /* START01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474224A667EB00534EE2 /* START01.cpp */; };
 		1033474524A66ACC00534EE2 /* DECINC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474424A66ACC00534EE2 /* DECINC.cpp */; };
+		10DA3C2D24A8E2FA00678FE0 /* DIFFSUM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10DA3C2B24A8E2FA00678FE0 /* DIFFSUM.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		100773ED24A53EA20001D164 /* PRICECON.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PRICECON.cpp; sourceTree = "<group>"; };
 		1033474224A667EB00534EE2 /* START01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = START01.cpp; sourceTree = "<group>"; };
 		1033474424A66ACC00534EE2 /* DECINC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DECINC.cpp; sourceTree = "<group>"; };
+		10DA3C2B24A8E2FA00678FE0 /* DIFFSUM.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DIFFSUM.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				100773ED24A53EA20001D164 /* PRICECON.cpp */,
 				1033474224A667EB00534EE2 /* START01.cpp */,
 				1033474424A66ACC00534EE2 /* DECINC.cpp */,
+				10DA3C2B24A8E2FA00678FE0 /* DIFFSUM.cpp */,
 			);
 			path = "Code Chef C++ Answers";
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				1033474524A66ACC00534EE2 /* DECINC.cpp in Sources */,
 				1033474324A667EB00534EE2 /* START01.cpp in Sources */,
+				10DA3C2D24A8E2FA00678FE0 /* DIFFSUM.cpp in Sources */,
 				100773EE24A53EA20001D164 /* PRICECON.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
