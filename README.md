@@ -1,4 +1,4 @@
-# Code-Chef-C++-Answers
+# Code-Chef-CPP-Answers
 My C++ Codechef submissions
 
 These are my codechef submissions.
