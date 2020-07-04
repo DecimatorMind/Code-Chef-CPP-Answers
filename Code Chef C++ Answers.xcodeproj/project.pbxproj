@@ -12,6 +12,7 @@
 		1033474324A667EB00534EE2 /* START01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474224A667EB00534EE2 /* START01.cpp */; };
 		1033474524A66ACC00534EE2 /* DECINC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474424A66ACC00534EE2 /* DECINC.cpp */; };
 		10643B8C24AB24080086122D /* LUCKFOUR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10643B8B24AB24080086122D /* LUCKFOUR.cpp */; };
+		106B221124AE7CCF00540026 /* FLOW002.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106B221024AE7CCF00540026 /* FLOW002.cpp */; };
 		1083FCD224AC7B1F006524B7 /* TRISQ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1083FCD124AC7B1F006524B7 /* TRISQ.cpp */; };
 		10A05C9C24A947EF00F6407D /* MATCHES.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10A05C9B24A947EF00F6407D /* MATCHES.cpp */; };
 		10DA3C2D24A8E2FA00678FE0 /* DIFFSUM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10DA3C2B24A8E2FA00678FE0 /* DIFFSUM.cpp */; };
@@ -38,6 +39,7 @@
 		1033474224A667EB00534EE2 /* START01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = START01.cpp; sourceTree = "<group>"; };
 		1033474424A66ACC00534EE2 /* DECINC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DECINC.cpp; sourceTree = "<group>"; };
 		10643B8B24AB24080086122D /* LUCKFOUR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LUCKFOUR.cpp; sourceTree = "<group>"; };
+		106B221024AE7CCF00540026 /* FLOW002.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW002.cpp; sourceTree = "<group>"; };
 		1083FCD124AC7B1F006524B7 /* TRISQ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TRISQ.cpp; sourceTree = "<group>"; };
 		10A05C9B24A947EF00F6407D /* MATCHES.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MATCHES.cpp; sourceTree = "<group>"; };
 		10DA3C2B24A8E2FA00678FE0 /* DIFFSUM.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DIFFSUM.cpp; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				10643B8B24AB24080086122D /* LUCKFOUR.cpp */,
 				1083FCD124AC7B1F006524B7 /* TRISQ.cpp */,
 				10F7AEC424AE32F6002110F5 /* ZCOSCH.cpp */,
+				106B221024AE7CCF00540026 /* FLOW002.cpp */,
 			);
 			path = "Code Chef C++ Answers";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				10F7AEC524AE32F6002110F5 /* ZCOSCH.cpp in Sources */,
 				1033474324A667EB00534EE2 /* START01.cpp in Sources */,
 				1000687624A9E71600C2F265 /* CHOPRT.cpp in Sources */,
+				106B221124AE7CCF00540026 /* FLOW002.cpp in Sources */,
 				10A05C9C24A947EF00F6407D /* MATCHES.cpp in Sources */,
 				10DA3C2D24A8E2FA00678FE0 /* DIFFSUM.cpp in Sources */,
 				100773EE24A53EA20001D164 /* PRICECON.cpp in Sources */,
