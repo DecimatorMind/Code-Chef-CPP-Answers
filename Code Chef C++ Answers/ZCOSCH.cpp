@@ -1,5 +1,5 @@
 //
-//  new.cpp
+//  ZCOSCH.cpp
 //  Code Chef C++ Answers
 //
 //  Created by Pranjal Bhardwaj on 02/07/20.

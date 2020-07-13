@@ -1,5 +1,5 @@
 //
-//  neww.cpp
+//  PPSUM.cpp
 //  Code Chef C++ Answers
 //
 //  Created by Pranjal Bhardwaj on 05/07/20.

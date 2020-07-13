@@ -1,5 +1,5 @@
 //
-//  new.cpp
+//  TRISQ.cpp
 //  Code Chef C++ Answers
 //
 //  Created by Pranjal Bhardwaj on 01/07/20.

@@ -1,5 +1,5 @@
 //
-//  new.cpp
+//  FSQRT.cpp
 //  Code Chef C++ Answers
 //
 //  Created by Pranjal Bhardwaj on 04/07/20.
