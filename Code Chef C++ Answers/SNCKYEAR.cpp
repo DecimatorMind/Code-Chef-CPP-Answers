@@ -1,5 +1,5 @@
 //
-//  new.cpp
+//  SNCKYEAR.cpp
 //  Code Chef C++ Answers
 //
 //  Created by Pranjal Bhardwaj on 30/06/20.

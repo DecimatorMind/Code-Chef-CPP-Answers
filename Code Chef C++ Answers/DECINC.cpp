@@ -1,5 +1,5 @@
 //
-//  new.cpp
+//  DECINC.cpp
 //  Code Chef C++ Answers
 //
 //  Created by Pranjal Bhardwaj on 26/06/20.
