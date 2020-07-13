@@ -1,5 +1,5 @@
 //
-//  new1.cpp
+//  CHN15A.cpp
 //  Code Chef C++ Answers
 //
 //  Created by Pranjal Bhardwaj on 07/07/20.
