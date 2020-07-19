@@ -12,6 +12,8 @@
 		1015579D24BDB09800E3F9AA /* GIFTSRC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1015579C24BDB09800E3F9AA /* GIFTSRC.cpp */; };
 		101557A024BE012B00E3F9AA /* ATTND.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1015579F24BE012B00E3F9AA /* ATTND.cpp */; };
 		10201F1C24B79C1500FA7FEF /* TWOVSTEN.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10201F1B24B79C1500FA7FEF /* TWOVSTEN.cpp */; };
+		10293AFC24C449FC003B6D09 /* ATM2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10293AFB24C449FC003B6D09 /* ATM2.cpp */; };
+		10293AFE24C46208003B6D09 /* CCOOK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10293AFD24C46208003B6D09 /* CCOOK.cpp */; };
 		1033474324A667EB00534EE2 /* START01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474224A667EB00534EE2 /* START01.cpp */; };
 		1033474524A66ACC00534EE2 /* DECINC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474424A66ACC00534EE2 /* DECINC.cpp */; };
 		1034B70624BC53C60060A7DA /* AMR15A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1034B70524BC53C60060A7DA /* AMR15A.cpp */; };
@@ -22,6 +24,7 @@
 		106B221124AE7CCF00540026 /* FLOW002.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106B221024AE7CCF00540026 /* FLOW002.cpp */; };
 		1077796A24B09AA7001A3D35 /* ADASCOOL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1077796924B09AA7001A3D35 /* ADASCOOL.cpp */; };
 		1077796C24B09CDE001A3D35 /* new.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1077796B24B09CDE001A3D35 /* new.cpp */; };
+		1081FFE424BF9636002742B4 /* new2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1081FFE324BF9636002742B4 /* new2.cpp */; };
 		1083FCD224AC7B1F006524B7 /* TRISQ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1083FCD124AC7B1F006524B7 /* TRISQ.cpp */; };
 		10A05C9C24A947EF00F6407D /* MATCHES.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10A05C9B24A947EF00F6407D /* MATCHES.cpp */; };
 		10D83F5D24B4965C000FC9D1 /* CHN15A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10D83F5C24B4965C000FC9D1 /* CHN15A.cpp */; };
@@ -52,6 +55,8 @@
 		1015579C24BDB09800E3F9AA /* GIFTSRC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GIFTSRC.cpp; sourceTree = "<group>"; };
 		1015579F24BE012B00E3F9AA /* ATTND.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ATTND.cpp; sourceTree = "<group>"; };
 		10201F1B24B79C1500FA7FEF /* TWOVSTEN.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TWOVSTEN.cpp; sourceTree = "<group>"; };
+		10293AFB24C449FC003B6D09 /* ATM2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ATM2.cpp; sourceTree = "<group>"; };
+		10293AFD24C46208003B6D09 /* CCOOK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CCOOK.cpp; sourceTree = "<group>"; };
 		1033474224A667EB00534EE2 /* START01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = START01.cpp; sourceTree = "<group>"; };
 		1033474424A66ACC00534EE2 /* DECINC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DECINC.cpp; sourceTree = "<group>"; };
 		1034B70524BC53C60060A7DA /* AMR15A.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AMR15A.cpp; sourceTree = "<group>"; };
@@ -62,6 +67,7 @@
 		106B221024AE7CCF00540026 /* FLOW002.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW002.cpp; sourceTree = "<group>"; };
 		1077796924B09AA7001A3D35 /* ADASCOOL.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ADASCOOL.cpp; sourceTree = "<group>"; };
 		1077796B24B09CDE001A3D35 /* new.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = new.cpp; sourceTree = "<group>"; };
+		1081FFE324BF9636002742B4 /* new2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = new2.cpp; sourceTree = "<group>"; };
 		1083FCD124AC7B1F006524B7 /* TRISQ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TRISQ.cpp; sourceTree = "<group>"; };
 		10A05C9B24A947EF00F6407D /* MATCHES.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MATCHES.cpp; sourceTree = "<group>"; };
 		10D83F5C24B4965C000FC9D1 /* CHN15A.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CHN15A.cpp; sourceTree = "<group>"; };
@@ -127,6 +133,9 @@
 				1015579F24BE012B00E3F9AA /* ATTND.cpp */,
 				1068FCCB24BF4F5F003EB288 /* new1.cpp */,
 				1068FCCD24BF7897003EB288 /* MDL.cpp */,
+				1081FFE324BF9636002742B4 /* new2.cpp */,
+				10293AFB24C449FC003B6D09 /* ATM2.cpp */,
+				10293AFD24C46208003B6D09 /* CCOOK.cpp */,
 			);
 			path = "Code Chef C++ Answers";
 			sourceTree = "<group>";
@@ -157,7 +166,7 @@
 		100773E224A53EA20001D164 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1150;
+				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = "Pranjal Bhardwaj";
 				TargetAttributes = {
 					100773E924A53EA20001D164 = {
@@ -193,15 +202,18 @@
 				10201F1C24B79C1500FA7FEF /* TWOVSTEN.cpp in Sources */,
 				10F6D72124BB875E0078753E /* CHFINTRO.cpp in Sources */,
 				1034B70624BC53C60060A7DA /* AMR15A.cpp in Sources */,
+				1081FFE424BF9636002742B4 /* new2.cpp in Sources */,
 				10EE582324AA6FBD00E6B03F /* SNCKYEAR.cpp in Sources */,
 				1033474524A66ACC00534EE2 /* DECINC.cpp in Sources */,
 				10D83F5D24B4965C000FC9D1 /* CHN15A.cpp in Sources */,
+				10293AFE24C46208003B6D09 /* CCOOK.cpp in Sources */,
 				10643B8C24AB24080086122D /* LUCKFOUR.cpp in Sources */,
 				1083FCD224AC7B1F006524B7 /* TRISQ.cpp in Sources */,
 				10D83F5F24B49A1F000FC9D1 /* test.cpp in Sources */,
 				1068FCCC24BF4F5F003EB288 /* new1.cpp in Sources */,
 				10F7AEC524AE32F6002110F5 /* ZCOSCH.cpp in Sources */,
 				1033474324A667EB00534EE2 /* START01.cpp in Sources */,
+				10293AFC24C449FC003B6D09 /* ATM2.cpp in Sources */,
 				101557A024BE012B00E3F9AA /* ATTND.cpp in Sources */,
 				103D486A24B1C5A80021FA0D /* PPSUM.cpp in Sources */,
 				10F7390B24B097FD00FF5712 /* FSQRT.cpp in Sources */,
@@ -330,6 +342,7 @@
 		100773F224A53EA20001D164 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6CBM2TPHV7;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -340,6 +353,7 @@
 		100773F324A53EA20001D164 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 6CBM2TPHV7;
 				ENABLE_HARDENED_RUNTIME = YES;
