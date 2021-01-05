@@ -9,28 +9,49 @@
 /* Begin PBXBuildFile section */
 		1000687624A9E71600C2F265 /* CHOPRT.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1000687524A9E71600C2F265 /* CHOPRT.cpp */; };
 		100773EE24A53EA20001D164 /* PRICECON.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 100773ED24A53EA20001D164 /* PRICECON.cpp */; };
+		1010665924CBA7A4008304C1 /* PLAYSTR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1010665824CBA7A4008304C1 /* PLAYSTR.cpp */; };
+		1010665B24CBAC1C008304C1 /* CFRTEST.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1010665A24CBAC1C008304C1 /* CFRTEST.cpp */; };
 		1015579D24BDB09800E3F9AA /* GIFTSRC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1015579C24BDB09800E3F9AA /* GIFTSRC.cpp */; };
 		101557A024BE012B00E3F9AA /* ATTND.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1015579F24BE012B00E3F9AA /* ATTND.cpp */; };
 		10201F1C24B79C1500FA7FEF /* TWOVSTEN.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10201F1B24B79C1500FA7FEF /* TWOVSTEN.cpp */; };
 		10293AFC24C449FC003B6D09 /* ATM2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10293AFB24C449FC003B6D09 /* ATM2.cpp */; };
 		10293AFE24C46208003B6D09 /* CCOOK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10293AFD24C46208003B6D09 /* CCOOK.cpp */; };
+		1032146324C9CBF80098DE5A /* CO92JUDG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1032146224C9CBF80098DE5A /* CO92JUDG.cpp */; };
+		1032146524C9CF530098DE5A /* CHN09.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1032146424C9CF530098DE5A /* CHN09.cpp */; };
 		1033474324A667EB00534EE2 /* START01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474224A667EB00534EE2 /* START01.cpp */; };
 		1033474524A66ACC00534EE2 /* DECINC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1033474424A66ACC00534EE2 /* DECINC.cpp */; };
 		1034B70624BC53C60060A7DA /* AMR15A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1034B70524BC53C60060A7DA /* AMR15A.cpp */; };
 		103D486A24B1C5A80021FA0D /* PPSUM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 103D486924B1C5A80021FA0D /* PPSUM.cpp */; };
+		105259D724D4565100F56308 /* DWNLD.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 105259D624D4565100F56308 /* DWNLD.cpp */; };
+		105706512538DD3A00008FD7 /* CSUM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 105706502538DD3A00008FD7 /* CSUM.cpp */; };
 		10643B8C24AB24080086122D /* LUCKFOUR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10643B8B24AB24080086122D /* LUCKFOUR.cpp */; };
 		1068FCCC24BF4F5F003EB288 /* new1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1068FCCB24BF4F5F003EB288 /* new1.cpp */; };
 		1068FCCE24BF7897003EB288 /* MDL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1068FCCD24BF7897003EB288 /* MDL.cpp */; };
+		10696D0E24E8083C00C5E25F /* RPD.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10696D0D24E8083C00C5E25F /* RPD.cpp */; };
 		106B221124AE7CCF00540026 /* FLOW002.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 106B221024AE7CCF00540026 /* FLOW002.cpp */; };
 		1077796A24B09AA7001A3D35 /* ADASCOOL.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1077796924B09AA7001A3D35 /* ADASCOOL.cpp */; };
 		1077796C24B09CDE001A3D35 /* new.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1077796B24B09CDE001A3D35 /* new.cpp */; };
 		1081FFE424BF9636002742B4 /* new2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1081FFE324BF9636002742B4 /* new2.cpp */; };
 		1083FCD224AC7B1F006524B7 /* TRISQ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1083FCD124AC7B1F006524B7 /* TRISQ.cpp */; };
 		10A05C9C24A947EF00F6407D /* MATCHES.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10A05C9B24A947EF00F6407D /* MATCHES.cpp */; };
+		10C01C5E24CB49F600CA54D6 /* FLOW013.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C01C5D24CB49F600CA54D6 /* FLOW013.cpp */; };
+		10C01C6024CB4B7A00CA54D6 /* FRGTNLNG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C01C5F24CB4B7A00CA54D6 /* FRGTNLNG.cpp */; };
+		10C349D424F03E6D00C24376 /* KTTABLE.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C349D324F03E6D00C24376 /* KTTABLE.cpp */; };
+		10C349D624F047B900C24376 /* VILLINE.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C349D524F047B900C24376 /* VILLINE.cpp */; };
+		10C59F4A24CA036B00347324 /* OMWG.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C59F4924CA036B00347324 /* OMWG.cpp */; };
+		10C59F4C24CA169200347324 /* FRK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C59F4B24CA169200347324 /* FRK.cpp */; };
+		10C59F4E24CA19F000347324 /* FLOW001.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C59F4D24CA19F000347324 /* FLOW001.cpp */; };
+		10C59F5024CA1EB100347324 /* FLOW018.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C59F4F24CA1EB100347324 /* FLOW018.cpp */; };
+		10C59F5224CA202600347324 /* CLLCM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10C59F5124CA202600347324 /* CLLCM.cpp */; };
 		10D83F5D24B4965C000FC9D1 /* CHN15A.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10D83F5C24B4965C000FC9D1 /* CHN15A.cpp */; };
 		10D83F5F24B49A1F000FC9D1 /* test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10D83F5E24B49A1F000FC9D1 /* test.cpp */; };
 		10DA3C2D24A8E2FA00678FE0 /* DIFFSUM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10DA3C2B24A8E2FA00678FE0 /* DIFFSUM.cpp */; };
 		10EE582324AA6FBD00E6B03F /* SNCKYEAR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10EE582224AA6FBD00E6B03F /* SNCKYEAR.cpp */; };
+		10F3085424CABE070031C936 /* THREEFR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F3085324CABE070031C936 /* THREEFR.cpp */; };
+		10F3085624CAFC1D0031C936 /* PALL01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F3085524CAFC1D0031C936 /* PALL01.cpp */; };
+		10F3085824CAFE6A0031C936 /* FLOW008.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F3085724CAFE6A0031C936 /* FLOW008.cpp */; };
+		10F3085A24CAFF900031C936 /* FLOW004.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F3085924CAFF900031C936 /* FLOW004.cpp */; };
+		10F3085C24CB05ED0031C936 /* JDELAY.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F3085B24CB05ED0031C936 /* JDELAY.cpp */; };
 		10F6D72124BB875E0078753E /* CHFINTRO.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F6D72024BB875E0078753E /* CHFINTRO.cpp */; };
 		10F7390B24B097FD00FF5712 /* FSQRT.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F7390A24B097FD00FF5712 /* FSQRT.cpp */; };
 		10F7AEC524AE32F6002110F5 /* ZCOSCH.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 10F7AEC424AE32F6002110F5 /* ZCOSCH.cpp */; };
@@ -52,28 +73,49 @@
 		1000687524A9E71600C2F265 /* CHOPRT.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CHOPRT.cpp; sourceTree = "<group>"; };
 		100773EA24A53EA20001D164 /* Code Chef C++ Answers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Code Chef C++ Answers"; sourceTree = BUILT_PRODUCTS_DIR; };
 		100773ED24A53EA20001D164 /* PRICECON.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PRICECON.cpp; sourceTree = "<group>"; };
+		1010665824CBA7A4008304C1 /* PLAYSTR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PLAYSTR.cpp; sourceTree = "<group>"; };
+		1010665A24CBAC1C008304C1 /* CFRTEST.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CFRTEST.cpp; sourceTree = "<group>"; };
 		1015579C24BDB09800E3F9AA /* GIFTSRC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GIFTSRC.cpp; sourceTree = "<group>"; };
 		1015579F24BE012B00E3F9AA /* ATTND.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ATTND.cpp; sourceTree = "<group>"; };
 		10201F1B24B79C1500FA7FEF /* TWOVSTEN.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TWOVSTEN.cpp; sourceTree = "<group>"; };
 		10293AFB24C449FC003B6D09 /* ATM2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ATM2.cpp; sourceTree = "<group>"; };
 		10293AFD24C46208003B6D09 /* CCOOK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CCOOK.cpp; sourceTree = "<group>"; };
+		1032146224C9CBF80098DE5A /* CO92JUDG.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CO92JUDG.cpp; sourceTree = "<group>"; };
+		1032146424C9CF530098DE5A /* CHN09.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CHN09.cpp; sourceTree = "<group>"; };
 		1033474224A667EB00534EE2 /* START01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = START01.cpp; sourceTree = "<group>"; };
 		1033474424A66ACC00534EE2 /* DECINC.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DECINC.cpp; sourceTree = "<group>"; };
 		1034B70524BC53C60060A7DA /* AMR15A.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AMR15A.cpp; sourceTree = "<group>"; };
 		103D486924B1C5A80021FA0D /* PPSUM.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PPSUM.cpp; sourceTree = "<group>"; };
+		105259D624D4565100F56308 /* DWNLD.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DWNLD.cpp; sourceTree = "<group>"; };
+		105706502538DD3A00008FD7 /* CSUM.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CSUM.cpp; sourceTree = "<group>"; };
 		10643B8B24AB24080086122D /* LUCKFOUR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = LUCKFOUR.cpp; sourceTree = "<group>"; };
 		1068FCCB24BF4F5F003EB288 /* new1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = new1.cpp; sourceTree = "<group>"; };
 		1068FCCD24BF7897003EB288 /* MDL.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MDL.cpp; sourceTree = "<group>"; };
+		10696D0D24E8083C00C5E25F /* RPD.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = RPD.cpp; sourceTree = "<group>"; };
 		106B221024AE7CCF00540026 /* FLOW002.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW002.cpp; sourceTree = "<group>"; };
 		1077796924B09AA7001A3D35 /* ADASCOOL.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ADASCOOL.cpp; sourceTree = "<group>"; };
 		1077796B24B09CDE001A3D35 /* new.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = new.cpp; sourceTree = "<group>"; };
 		1081FFE324BF9636002742B4 /* new2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = new2.cpp; sourceTree = "<group>"; };
 		1083FCD124AC7B1F006524B7 /* TRISQ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = TRISQ.cpp; sourceTree = "<group>"; };
 		10A05C9B24A947EF00F6407D /* MATCHES.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = MATCHES.cpp; sourceTree = "<group>"; };
+		10C01C5D24CB49F600CA54D6 /* FLOW013.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW013.cpp; sourceTree = "<group>"; };
+		10C01C5F24CB4B7A00CA54D6 /* FRGTNLNG.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FRGTNLNG.cpp; sourceTree = "<group>"; };
+		10C349D324F03E6D00C24376 /* KTTABLE.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = KTTABLE.cpp; sourceTree = "<group>"; };
+		10C349D524F047B900C24376 /* VILLINE.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = VILLINE.cpp; sourceTree = "<group>"; };
+		10C59F4924CA036B00347324 /* OMWG.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = OMWG.cpp; sourceTree = "<group>"; };
+		10C59F4B24CA169200347324 /* FRK.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FRK.cpp; sourceTree = "<group>"; };
+		10C59F4D24CA19F000347324 /* FLOW001.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW001.cpp; sourceTree = "<group>"; };
+		10C59F4F24CA1EB100347324 /* FLOW018.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW018.cpp; sourceTree = "<group>"; };
+		10C59F5124CA202600347324 /* CLLCM.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CLLCM.cpp; sourceTree = "<group>"; };
 		10D83F5C24B4965C000FC9D1 /* CHN15A.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CHN15A.cpp; sourceTree = "<group>"; };
 		10D83F5E24B49A1F000FC9D1 /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
 		10DA3C2B24A8E2FA00678FE0 /* DIFFSUM.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DIFFSUM.cpp; sourceTree = "<group>"; };
 		10EE582224AA6FBD00E6B03F /* SNCKYEAR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SNCKYEAR.cpp; sourceTree = "<group>"; };
+		10F3085324CABE070031C936 /* THREEFR.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = THREEFR.cpp; sourceTree = "<group>"; };
+		10F3085524CAFC1D0031C936 /* PALL01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = PALL01.cpp; sourceTree = "<group>"; };
+		10F3085724CAFE6A0031C936 /* FLOW008.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW008.cpp; sourceTree = "<group>"; };
+		10F3085924CAFF900031C936 /* FLOW004.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FLOW004.cpp; sourceTree = "<group>"; };
+		10F3085B24CB05ED0031C936 /* JDELAY.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = JDELAY.cpp; sourceTree = "<group>"; };
 		10F6D72024BB875E0078753E /* CHFINTRO.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CHFINTRO.cpp; sourceTree = "<group>"; };
 		10F7390A24B097FD00FF5712 /* FSQRT.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = FSQRT.cpp; sourceTree = "<group>"; };
 		10F7AEC424AE32F6002110F5 /* ZCOSCH.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ZCOSCH.cpp; sourceTree = "<group>"; };
@@ -136,6 +178,27 @@
 				1081FFE324BF9636002742B4 /* new2.cpp */,
 				10293AFB24C449FC003B6D09 /* ATM2.cpp */,
 				10293AFD24C46208003B6D09 /* CCOOK.cpp */,
+				1032146224C9CBF80098DE5A /* CO92JUDG.cpp */,
+				1032146424C9CF530098DE5A /* CHN09.cpp */,
+				10C59F4924CA036B00347324 /* OMWG.cpp */,
+				10C59F4B24CA169200347324 /* FRK.cpp */,
+				10C59F4D24CA19F000347324 /* FLOW001.cpp */,
+				10C59F4F24CA1EB100347324 /* FLOW018.cpp */,
+				10C59F5124CA202600347324 /* CLLCM.cpp */,
+				10F3085324CABE070031C936 /* THREEFR.cpp */,
+				10F3085524CAFC1D0031C936 /* PALL01.cpp */,
+				10F3085724CAFE6A0031C936 /* FLOW008.cpp */,
+				10F3085924CAFF900031C936 /* FLOW004.cpp */,
+				10F3085B24CB05ED0031C936 /* JDELAY.cpp */,
+				10C01C5D24CB49F600CA54D6 /* FLOW013.cpp */,
+				10C01C5F24CB4B7A00CA54D6 /* FRGTNLNG.cpp */,
+				1010665824CBA7A4008304C1 /* PLAYSTR.cpp */,
+				1010665A24CBAC1C008304C1 /* CFRTEST.cpp */,
+				105259D624D4565100F56308 /* DWNLD.cpp */,
+				10696D0D24E8083C00C5E25F /* RPD.cpp */,
+				10C349D324F03E6D00C24376 /* KTTABLE.cpp */,
+				10C349D524F047B900C24376 /* VILLINE.cpp */,
+				105706502538DD3A00008FD7 /* CSUM.cpp */,
 			);
 			path = "Code Chef C++ Answers";
 			sourceTree = "<group>";
@@ -198,14 +261,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				1077796C24B09CDE001A3D35 /* new.cpp in Sources */,
+				10F3085824CAFE6A0031C936 /* FLOW008.cpp in Sources */,
+				10C59F5224CA202600347324 /* CLLCM.cpp in Sources */,
+				10C349D624F047B900C24376 /* VILLINE.cpp in Sources */,
 				1077796A24B09AA7001A3D35 /* ADASCOOL.cpp in Sources */,
 				10201F1C24B79C1500FA7FEF /* TWOVSTEN.cpp in Sources */,
+				10C01C6024CB4B7A00CA54D6 /* FRGTNLNG.cpp in Sources */,
 				10F6D72124BB875E0078753E /* CHFINTRO.cpp in Sources */,
 				1034B70624BC53C60060A7DA /* AMR15A.cpp in Sources */,
+				10F3085C24CB05ED0031C936 /* JDELAY.cpp in Sources */,
+				10696D0E24E8083C00C5E25F /* RPD.cpp in Sources */,
+				10C59F4E24CA19F000347324 /* FLOW001.cpp in Sources */,
 				1081FFE424BF9636002742B4 /* new2.cpp in Sources */,
 				10EE582324AA6FBD00E6B03F /* SNCKYEAR.cpp in Sources */,
 				1033474524A66ACC00534EE2 /* DECINC.cpp in Sources */,
+				1032146324C9CBF80098DE5A /* CO92JUDG.cpp in Sources */,
+				10C59F4A24CA036B00347324 /* OMWG.cpp in Sources */,
 				10D83F5D24B4965C000FC9D1 /* CHN15A.cpp in Sources */,
+				10C349D424F03E6D00C24376 /* KTTABLE.cpp in Sources */,
 				10293AFE24C46208003B6D09 /* CCOOK.cpp in Sources */,
 				10643B8C24AB24080086122D /* LUCKFOUR.cpp in Sources */,
 				1083FCD224AC7B1F006524B7 /* TRISQ.cpp in Sources */,
@@ -215,13 +288,24 @@
 				1033474324A667EB00534EE2 /* START01.cpp in Sources */,
 				10293AFC24C449FC003B6D09 /* ATM2.cpp in Sources */,
 				101557A024BE012B00E3F9AA /* ATTND.cpp in Sources */,
+				10C01C5E24CB49F600CA54D6 /* FLOW013.cpp in Sources */,
 				103D486A24B1C5A80021FA0D /* PPSUM.cpp in Sources */,
+				10C59F5024CA1EB100347324 /* FLOW018.cpp in Sources */,
+				10C59F4C24CA169200347324 /* FRK.cpp in Sources */,
+				1010665B24CBAC1C008304C1 /* CFRTEST.cpp in Sources */,
+				105706512538DD3A00008FD7 /* CSUM.cpp in Sources */,
 				10F7390B24B097FD00FF5712 /* FSQRT.cpp in Sources */,
+				10F3085424CABE070031C936 /* THREEFR.cpp in Sources */,
+				10F3085A24CAFF900031C936 /* FLOW004.cpp in Sources */,
 				1000687624A9E71600C2F265 /* CHOPRT.cpp in Sources */,
 				106B221124AE7CCF00540026 /* FLOW002.cpp in Sources */,
+				10F3085624CAFC1D0031C936 /* PALL01.cpp in Sources */,
 				1015579D24BDB09800E3F9AA /* GIFTSRC.cpp in Sources */,
+				1032146524C9CF530098DE5A /* CHN09.cpp in Sources */,
 				10A05C9C24A947EF00F6407D /* MATCHES.cpp in Sources */,
+				105259D724D4565100F56308 /* DWNLD.cpp in Sources */,
 				1068FCCE24BF7897003EB288 /* MDL.cpp in Sources */,
+				1010665924CBA7A4008304C1 /* PLAYSTR.cpp in Sources */,
 				10DA3C2D24A8E2FA00678FE0 /* DIFFSUM.cpp in Sources */,
 				100773EE24A53EA20001D164 /* PRICECON.cpp in Sources */,
 			);
