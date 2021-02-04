@@ -11,11 +11,12 @@ The motive of this repository is to store all the solutions.
 
 # Project File Directory
 
-    ├── Code\ Chef\ C++\ Answers
+        ├── Code\ Chef\ C++\ Answers
     │   ├── ADASCOOL.cpp
     │   ├── AMR15A.cpp
     │   ├── ATM2.cpp
     │   ├── ATTND.cpp
+    │   ├── C00K0FF.cpp
     │   ├── CCOOK.cpp
     │   ├── CFRTEST.cpp
     │   ├── CHFINTRO.cpp
@@ -58,6 +59,10 @@ The motive of this repository is to store all the solutions.
     │   ├── VILLINE.cpp
     │   ├── ZCOSCH.cpp
     │   ├── main.cpp
+    │   ├── new.cpp
+    │   ├── new1.cpp
+    │   ├── new2.cpp
+    │   └── test.cpp
     ├── Code\ Chef\ C++\ Answers.xcodeproj
     │   ├── project.pbxproj
     │   ├── project.xcworkspace
@@ -72,4 +77,3 @@ The motive of this repository is to store all the solutions.
     │           └── xcschemes
     │               └── xcschememanagement.plist
     └── README.md
-
