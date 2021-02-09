@@ -1,3 +1,5 @@
+[![](https://img.shields.io/github/followers/DecimatorMind?label=Follow&style=social)](https://www.github.com/DecimatorMind)
+
 # Code-Chef-CPP-Answers
 My C++ Codechef submissions
 
