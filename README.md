@@ -27,10 +27,10 @@ The motive of this repository is to store all the solutions.
         │   ├── CHOPRT.cpp
         │   ├── CLLCM.cpp
         │   ├── CO92JUDG.cpp
+        │   ├── COMPROG1.cpp
         │   ├── CSUM.cpp
         │   ├── DECINC.cpp
         │   ├── DIFFSUM.cpp
-        │   ├── DIFFSUM.hpp
         │   ├── DWNLD.cpp
         │   ├── FLOW001.cpp
         │   ├── FLOW002.cpp
